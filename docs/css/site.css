@@ -14,3 +14,21 @@
 .navbar {
   border-bottom: 10px style black;
 }
+
+.carouselpush{
+  margin-top: 20px;
+  border-color: black;
+}
+
+.spaceswot{
+  margin-top: 20px;
+}
+
+.card-deck{
+  margin-top: 15px;
+}
+
+.profilepic{
+  height = 200px;
+  width = 50%;
+}
