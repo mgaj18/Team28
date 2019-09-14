@@ -49,3 +49,9 @@
   border-radius:25%;
   border: solid;
 }
+
+/* Rotating code found at https://www.computerhope.com/issues/ch001784.htm */
+
+.rotateimg180 {
+  transform: rotate(90deg);
+}
