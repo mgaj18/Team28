@@ -32,3 +32,13 @@
   height = 200px;
   width = 50%;
 }
+
+#analyticsfont{
+  font-family: "Times New Roman";
+  font-size: 25px;
+}
+
+#analyticsSmallFont{
+  font-family: "Times New Roman";
+  font-size: 23px;
+}
